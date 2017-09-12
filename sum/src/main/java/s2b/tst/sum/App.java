@@ -20,6 +20,6 @@ public class App
         System.out.println("B:"+b);
         System.out.println("Soma:"+r);
         //
-        System.out.println("Funciona");
+        System.out.println(" ");
     }
 }
