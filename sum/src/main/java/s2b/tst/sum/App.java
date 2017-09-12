@@ -1,7 +1,6 @@
 package s2b.tst.sum;
 import java.util.Scanner;
 
-import com.sun.corba.se.spi.orbutil.fsm.Input;
 /**
  * Hello world!
  *
